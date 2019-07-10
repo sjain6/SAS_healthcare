@@ -4,8 +4,7 @@
 ods listing style=listing image_dpi=&dpi gpath=&gpath; 
 ods html close;
 
-/*--Panel-*/
-/*--adding new feature in macro here--*/
+/*--Panel--*/
 proc template;
   define statgraph Fig_7_0_Panel;
     begingraph;
